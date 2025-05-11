@@ -1,0 +1,13 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Jogo de RPG</title>
+</head>
+<body>
+  <h1>Jogo de RPG por Texto</h1>
+  <p>Um mini jogo interativo em Python. Escolha seu nome, classe e enfrente decisões baseadas na sorte!</p>
+  <p>Repositório original no <a href="https://github.com/Luisfilipenogue/Python-projects">GitHub</a></p>
+</body>
+</html>
