@@ -75,3 +75,4 @@ elif item_chance == 4:
 print("-" * 100)
 
 print("Você esta ficando mais forte, porem é necessario esperar para continuar")
+input("Pressione enter para finalizar o progama")
