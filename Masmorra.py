@@ -71,3 +71,7 @@ elif item_chance == 3:
      print("O monstro dropou um item épico!")
 elif item_chance == 4:
      print("O monstro dropou um item lendario!")  
+
+print("-" * 100)
+
+print("Você esta ficando mais forte, porem é necessario esperar para continuar")
